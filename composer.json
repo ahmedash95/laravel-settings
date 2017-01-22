@@ -1,20 +1,24 @@
 {
-  "name": "edvinaskrucas/settings",
+  "name": "ahmedash95/laravel-settings",
   "keywords": ["settings", "persistent settings", "laravel"],
   "description": "Persistent settings package for Laravel framework.",
   "authors": [
     {
       "name": "Edvinas Kručas",
       "email": "edv.krucas@gmail.com"
+    },
+    {
+      "name": "Ahmed Ashraf",
+      "email": "ahmed29329@gmail.com"
     }
   ],
   "license": "MIT",
   "require": {
     "php" : "^5.5|^7.0",
-    "illuminate/support": "^5.2",
-    "illuminate/console": "^5.2",
-    "illuminate/database": "^5.2",
-    "illuminate/filesystem": "^5.2"
+    "illuminate/support": "^5.3",
+    "illuminate/console": "^5.3",
+    "illuminate/database": "^5.3",
+    "illuminate/filesystem": "^5.3"
   },
   "require-dev": {
     "mockery/mockery": "0.9.*"
