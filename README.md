@@ -21,20 +21,9 @@ Persistent settings package for Laravel 5.
 
 ## Installation
 
-Require this package in your composer.json:
-
 ```
-"require": {
-  "edvinaskrucas/settings": "2.0.0"
-}
+ composer require ahmedash95/laravle-settings
 ```
-
-### Version matrix
-
-| Laravel Version       | Package version          |
-| --------------------- | ------------------------ |
-| >=5.0, <=5.1          | >= 1.0.0, <= 2.0.0       |
-| 5.2                   | >= 2.0.0                 |
 
 ### Registering to use it with laravel
 
